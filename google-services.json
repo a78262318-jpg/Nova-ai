@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99727996405",
+    "project_id": "gen-lang-client-0212818203",
+    "storage_bucket": "gen-lang-client-0212818203.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99727996405:android:2098bf4f11d214216e9cbc",
+        "android_client_info": {
+          "package_name": "com.nova.ai.assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgedJHUXOCYLQQOCT6SXC_uW17FML9vTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

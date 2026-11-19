@@ -1,0 +1,6 @@
+{
+  "name": "NOVA AI",
+  "description": "Multilingual Bengali, Hindi, and English personal AI assistant with NOVA wake word, Gemini AI, floating bubble, device manager, and offline controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
